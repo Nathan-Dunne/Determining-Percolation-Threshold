@@ -1,0 +1,1 @@
+Compile Percolation and PercolationStats. Run PercolationStats.
